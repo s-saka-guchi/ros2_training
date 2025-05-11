@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sakaguchi/Documents/ros2_ws_sample/install/tutorial_interfaces/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/install/turtlesim/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/install/more_interfaces/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/install/examples_rclcpp_cbg_executor/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/cpp_parameters/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/cpp_pubsub/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/cpp_srvcli/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/examples/rclcpp/composition/minimal_composition/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/examples/rclcpp/executors/cbg_executor/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/examples/rclcpp/wait_set/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/more_interfaces/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/my_package/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/ros_tutorials/turtlesim/include/**",
+        "/home/sakaguchi/Documents/ros2_ws_sample/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
