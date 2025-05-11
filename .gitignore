@@ -1,4 +1,7 @@
+# colcon output
 build/
 log/
 install/
 
+# env setting
+.vscode
